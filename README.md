@@ -6,6 +6,16 @@ A service for organizing virtual economies. Create projects, manage currencies a
 
 ---
 
+## Repositories
+
+| Part | Repository |
+|------|------------|
+| Shared Library | [ecohub-shared](https://github.com/PasinZhuga01/ecohub-shared) |
+| Backend | [ecohub-backend](https://github.com/PasinZhuga01/ecohub-backend) |
+| Frontend | [ecohub-frontend](https://github.com/PasinZhuga01/ecohub-frontend) |
+
+---
+
 ## Tech Stack
 
 #### Shared Library
